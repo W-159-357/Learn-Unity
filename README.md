@@ -1,2 +1,2 @@
 # Learn-Unity
-unity learning code
+Unity Personal Learning Log
